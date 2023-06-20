@@ -8,7 +8,7 @@ This example app is also available with a [React extension](https://github.com/S
 
 ## Running this app
 
-To run this app locally, clone the repository, and then follow our [work on an existing app](https://shopify.dev/docs/apps/getting-started/existing) tutorial to install the project dependencies and preview the app.
+To run this app locally, clone the repository, and then follow our [Work on an existing app](https://shopify.dev/docs/apps/getting-started/existing) tutorial to install the project dependencies and preview the app.
 
 ## Contributing
 
