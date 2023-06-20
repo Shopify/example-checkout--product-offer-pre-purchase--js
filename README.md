@@ -1,20 +1,15 @@
-# checkout-ui-tutorials
+# Shopify app example: pre-purchase product offer checkout extension
 
-[About this repo](#about-this-repo) | [Projects & Roadmap](#projects--roadmap-optional) |
+This repo contains an example app that uses [checkout UI extensions](https://shopify.dev/docs/api/checkout-ui-extensions) to build a pre-purchase product offer experience using Node.js and Vanilla JavaScript.
 
-## About this repo
+For more information, and for a walkthrough of this code, review our tutorial: [Build a pre-purchase product offer checkout extension](https://shopify.dev/docs/apps/checkout/product-offers/pre-purchase/build)
 
-This repo contains a sample app used to build checkout UI extension tutorials. Currently it contains a single node app that builds a single tutorial.
+This example app is also available with a [React extension](https://github.com/Shopify/example-checkout--product-offer-pre-purchase--react).
 
-|                |                                                                                    |
-|----------------|------------------------------------------------------------------------------------|
-| Current status | alpha                                                                              |
-| Owner / Help   | [#build-learn-dev-education](https://shopify.slack.com/archives/C04SPRGUV1B)       |
+## Running this app
 
-**Guiding principles**: Principles for sample app repositories are currently in development.
+To run this app locally, clone the repository, and then follow our [work on an existing app](https://shopify.dev/docs/apps/getting-started/existing) tutorial to install the project dependencies and preview the app.
 
-## Projects & roadmap
+## Contributing
 
-| Project name                                                                                                        | Feature description                                                                     |
-|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| [shopify.dev: Improve Structured Tutorial Readability and Maintenance](https://vault.shopify.io/gsd/projects/30243) | A new authorship and presentation model that builds tutorials from working sample apps. |
+This repository is for example purposes only. It doesn't accept issues or contributions.
