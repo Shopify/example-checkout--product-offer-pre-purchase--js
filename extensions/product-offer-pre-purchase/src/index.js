@@ -29,7 +29,7 @@ extend(
 
     // [START product-offer-pre-purchase.retrieve-cart-data]
     lines.subscribe(() => renderApp());
-    // [End product-offer-pre-purchase.retrieve-cart-data]
+    // [END product-offer-pre-purchase.retrieve-cart-data]
 
     const loadingState = createLoadingState(root);
     if (loading) {
