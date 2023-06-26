@@ -246,6 +246,7 @@ function createApp(
 }
 // [END product-offer-pre-purchase.offer-ui]
 
+// [START product-offer-pre-purchase.filter-products]
 function filterProductsOnOffer(lines, products) {
   const cartLineProductVariantIds = lines.current.map(
     (item) => item.merchandise.id
@@ -257,6 +258,7 @@ function filterProductsOnOffer(lines, products) {
     return !isProductVariantInCart;
   });
 }
+// [END product-offer-pre-purchase.filter-products]
 
 function updateProductComponents(
   product,
