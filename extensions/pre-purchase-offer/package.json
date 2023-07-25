@@ -1,0 +1,9 @@
+{
+  "name": "pre-purchase-offer",
+  "private": true,
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@shopify/ui-extensions": "unstable"
+  }
+}
