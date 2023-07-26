@@ -15,7 +15,7 @@ handle = "pre-purchase-offer"
 # https://shopify.dev/docs/api/checkout-ui-extensions/unstable/targets-overview
 # [START product-offer-pre-purchase.ext-config]
 [[extensions.targeting]]
-module = "./src/index.js"
+module = "./src/Checkout.js"
 target = "purchase.checkout.block.render"
 # [END product-offer-pre-purchase.ext-config]
 # [START product-offer-pre-purchase.api-access]
