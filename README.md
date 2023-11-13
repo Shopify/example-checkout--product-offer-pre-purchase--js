@@ -1,10 +1,10 @@
-# Shopify app example: client validation checkout extension
+# Shopify app example: pre-purchase product offer checkout extension
 
-This repo contains an example app that uses [checkout UI extensions](https://shopify.dev/docs/api/checkout-ui-extensions) to implement client-side validation using JavaScript.
+This repo contains an example app that uses [checkout UI extensions](https://shopify.dev/docs/api/checkout-ui-extensions) to build a pre-purchase product offer experience using Node.js and Vanilla JavaScript.
 
-For more information, and for a walkthrough of this code, review our tutorial: [Build a pre-purchase product offer checkout extension](https://shopify.dev/docs/apps/checkout/validation/client-side-validation?languagePreferences=remix%2Cjavascript)
+For more information, and for a walkthrough of this code, review our tutorial: [Build a pre-purchase product offer checkout extension](https://shopify.dev/docs/apps/checkout/product-offers/pre-purchase/build?languagePreferences=remix%2Cjavascript)
 
-This example app is also available with a [React extension](https://github.com/Shopify/example-checkout--client-side--react).
+This example app is also available with a [React extension](https://github.com/Shopify/example-checkout--product-offer-pre-purchase--react).
 
 ## Running this app
 
