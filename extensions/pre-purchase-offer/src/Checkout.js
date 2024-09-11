@@ -159,8 +159,9 @@ function createProductComponents(root) {
     border: "base",
     borderWidth: "base",
     borderRadius: "loose",
-    aspectRatio: 1,
     source: "",
+    accessibilityDescription: "",
+    aspectRatio: 1,
   });
   const titleMarkup = root.createText("");
   const priceMarkup = root.createText("");
@@ -232,7 +233,7 @@ function createApp(
         [
           imageComponent,
           root.createComponent(BlockStack, { spacing: "none" }, [
-            root.createComponent(Text, { size: "medium", emphasis: "strong" }, [
+            root.createComponent(Text, { size: "medium", emphasis: "bold" }, [
               titleMarkup,
             ]),
             root.createComponent(Text, { appearance: "subdued" }, [
